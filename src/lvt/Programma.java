@@ -8,7 +8,7 @@ public class Programma {
 		int skaitlis;
 		Random rand = new Random();
 		skaitlis = rand.nextInt(6)+1;
-		System.out.println("67");
+		System.out.println("Uzkrita skaitlis: "+skaitlis);
 		
 	}
 
